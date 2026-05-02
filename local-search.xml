@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>在线多用途解码工具</title>
+    <link href="/2026/05/02/%E5%9C%A8%E7%BA%BF%E5%A4%9A%E7%94%A8%E9%80%94%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7/"/>
+    <url>/2026/05/02/%E5%9C%A8%E7%BA%BF%E5%A4%9A%E7%94%A8%E9%80%94%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7/</url>
+    
+    <content type="html"><![CDATA[<h3 id="CyberChef：网络空间的“瑞士军刀”"><a href="#CyberChef：网络空间的“瑞士军刀”" class="headerlink" title="CyberChef：网络空间的“瑞士军刀”"></a>CyberChef：网络空间的“瑞士军刀”</h3><p><strong>工具简介：</strong><br>CyberChef 官方称号为 “The Cyber Swiss Army Knife”，是由英国情报机构 GCHQ（政府通信总部）开发并开源的顶级数据处理与分析工具。它是一个纯前端运行的 Web 应用程序，这意味着你的所有数据都在本地浏览器处理，极其安全且响应迅速。</p><p><strong>核心亮点：</strong></p><ul><li><strong>可视化“炼丹”：</strong> 采用极其直观的拖拽式（Drag &amp; Drop）操作界面。你可以像搭积木一样，将多种不同的编解码“配方”（Recipe）组合在一起，实现多重嵌套加密的瞬间秒解。</li><li><strong>全能型算法库：</strong> 支持多达几百种操作，包括但不限于：<ul><li><strong>基础编码：</strong> Base64&#x2F;32&#x2F;58, Hex, URL, Morse Code 等。</li><li><strong>密码学 (Crypto)：</strong> AES, RSA, DES, RC4 加解密。</li><li><strong>哈希与校验：</strong> MD5, SHA 系列, CRC 等。</li><li><strong>杂项分析 (Misc)：</strong> 提取隐藏文件、正则表达式提取、时间戳转换、网络数据包剥离等。</li></ul></li></ul><p><strong>适用场景：</strong><br>强烈推荐作为 CTF 比赛（特别是 Crypto 和 Misc 方向）的首选解码器，也极其适合在做 Web 渗透测试时快速构造和转换 Payload。</p><p>👉 <a href="/tools/decoder/CyberChef_v9.39.1%E5%A4%9A%E7%A7%8D%E7%BC%96%E7%A0%81%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7/CyberChef_v9.39.1.html">点击进入该解码工具</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>在线工具</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>一些实用工具</title>
+    <link href="/2026/05/02/%E4%B8%80%E4%BA%9B%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    <url>/2026/05/02/%E4%B8%80%E4%BA%9B%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/</url>
+    
+    <content type="html"><![CDATA[<h4 id="以下是一些基础使用工具及其简介，下载连接附在最后："><a href="#以下是一些基础使用工具及其简介，下载连接附在最后：" class="headerlink" title="以下是一些基础使用工具及其简介，下载连接附在最后："></a>以下是一些基础使用工具及其简介，下载连接附在最后：</h4><p>010Editor64位（十六进制图片分析器））</p><p>Audacity（音频隐写及解密工具）</p><p>Burpsuite（抓包工具）</p><p>CheatEngine（修改器）</p><p>cmder（更适用的命令行工具）</p><p>exiftool（64位图片EXIF工具）</p><p>mp3stego-gui （音频隐写工具）</p><p>nginx-1.27.2（高性能 Web 服务器 &#x2F; 反向代理服务器）</p><p>Openssl（加密算法与安全通信工具包）</p><p>optipng-7.9.1-win64（PNG 图片无损优化器）</p><p>spy++（Windows 窗口与消息监视工具）</p><p>tweakpng-1.4.6（png分析工具）</p><p>Wireshark（流量抓包分析工具）</p><p>x64dbg（逆向工程分析工具）</p><p>下载链接：通过网盘分享的文件：部分基本工具链接: <a href="https://pan.baidu.com/s/18PTcSgBS46HQzjA3l6Vltw">https://pan.baidu.com/s/18PTcSgBS46HQzjA3l6Vltw</a> –来自百度网盘超级会员v2的分享</p><p><strong>免责说明：工具仅供学习研究使用，严禁用于非法用途，由使用者承担一切后果！！</strong></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>工具，网络安全</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>

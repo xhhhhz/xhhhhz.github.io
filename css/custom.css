@@ -1,0 +1,21 @@
+.navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.navbar-brand::before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  background-image: url('/img/avatar.jpg') !important;
+  background-size: cover;
+  border-radius: 50% !important;
+  margin-right: 10px !important;
+  animation: self-spin 4s linear infinite !important;
+}
+
+@keyframes self-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
